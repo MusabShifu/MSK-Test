@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    color: bisque;
+    background-color: black;
+}
+label{
+    font-weight: 500;
+}
+.err input:checked + label{
+    color: red;
+}
+.done div input.correct + label{
+    color: green;
+}
+.checked h3{
+    color: blue;
+}
+button{
+    display: block;
+    width: fit-content;
+    font-size: 45px;
+    color: white;
+    background-color: #22ff2d;
+    border-radius: 20px;
+    margin: 20px auto;
+    padding: 20px;
+}
+.score{
+    text-align: center;
+    font-size: 46px;
+}

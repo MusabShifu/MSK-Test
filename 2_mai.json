@@ -1,0 +1,562 @@
+[
+    {
+        "question": "1. What nerve pierces the coracobrachialis muscle?\n",
+        "A": "A) Radial nerve\n",
+        "B": "B) Ulnar nerve\n",
+        "C": "C) Median nerve\n",
+        "D": "D) Musculocutaneous nerve\n",
+        "answer": "D"
+    },
+    {
+        "question": "2. The radial nerve supplies which muscle in the arm?\n",
+        "A": "A) Biceps brachii\n",
+        "B": "B) Triceps brachii\n",
+        "C": "C) Coracobrachialis\n",
+        "D": "D) Brachialis\n",
+        "answer": "B"
+    },
+    {
+        "question": "3. What is the action of the biceps brachii at the elbow joint?\n",
+        "A": "A) Extension\n",
+        "B": "B) Abduction\n",
+        "C": "C) Flexion and supination\n",
+        "D": "D) Adduction and flexion\n",
+        "answer": "C"
+    },
+    {
+        "question": "4. Which muscle assists in both flexion and adduction of the arm (shoulder)?\n",
+        "A": "A) Biceps brachii\n",
+        "B": "B) Triceps brachii\n",
+        "C": "C) Coracobrachialis\n",
+        "D": "D) Brachialis\n",
+        "answer": "C"
+    },
+    {
+        "question": "5. The long head of the triceps brachii originates from the: \n",
+        "A": "A) Supraglenoid tubercle\n",
+        "B": "B) Coracoid process\n",
+        "C": "C) Infraglenoid tubercle\n",
+        "D": "D) Radial groove\n",
+        "answer": "C"
+    },
+    {
+        "question": "6. The brachial artery divides into the radial and ulnar arteries in the: \n",
+        "A": "A) Axilla\n",
+        "B": "B) Anterior compartment of the arm\n",
+        "C": "C) Posterior compartment of the arm\n",
+        "D": "D) Cubital fossa\n",
+        "answer": "D"
+    },
+    {
+        "question": "7. The radial nerve supplies which muscle in the arm?\n",
+        "A": "A) Biceps brachii\n",
+        "B": "B) Triceps brachii\n",
+        "C": "C) Coracobrachialis\n",
+        "D": "D) Brachialis\n",
+        "answer": "B"
+    },
+    {
+        "question": "8. What is the sarcoplasm in a muscle cell?\n",
+        "A": "A) The cell membrane of the muscle fiber\n",
+        "B": "B) The cytoplasm of the muscle fiber\n",
+        "C": "C) The contractile unit of the muscle\n",
+        "D": "D) The endoplasmic reticulum of the muscle fiber \n",
+        "answer": "B"
+    },
+    {
+        "question": "9. What are the cells responsible for bone formation?\n",
+        "A": "A) Osteoblasts\n",
+        "B": "B) Osteocytes\n",
+        "C": "C) Osteoclasts\n",
+        "D": "D) Chondroblasts\n",
+        "answer": "A"
+    },
+    {
+        "question": "10. Which band in a myofibril contains only actin filaments?\n",
+        "A": "A) A band\n",
+        "B": "B) H band\n",
+        "C": "C) I band\n",
+        "D": "D) M band\n",
+        "answer": "C"
+    },
+    {
+        "question": "11. Which of the following is NOT part of the anterior compartment of the thigh?\n",
+        "A": "A) Rectus femoris\n",
+        "B": "B) Sartorius\n",
+        "C": "C) Adductor longus\n",
+        "D": "D) Vastus lateralis\n",
+        "answer": "C"
+    },
+    {
+        "question": "12. What is the primary action of the quadriceps femoris group?\n",
+        "A": "A) Knee extension\n",
+        "B": "B) Hip flexion\n",
+        "C": "C) Hip abduction\n",
+        "D": "D) Knee flexion\n",
+        "answer": "A"
+    },
+    {
+        "question": "13. Which structure passes through the adductor canal?\n",
+        "A": "A) Femoral artery\n",
+        "B": "B) Superior gluteal artery\n",
+        "C": "C) Sciatic nerve\n",
+        "D": "D) Great saphenous vein\n",
+        "answer": "A"
+    },
+    {
+        "question": "14. What is the action of the hamstring muscles?\n",
+        "A": "A) Hip extension and knee flexion\n",
+        "B": "B) Hip flexion and knee extension\n",
+        "C": "C) Hip abduction and knee flexion\n",
+        "D": "D) Hip adduction and knee extension\n",
+        "answer": "A"
+    },
+    {
+        "question": "15. The profunda femoris artery gives rise to which major branches?\n",
+        "A": "A) Circumflex femoral arteries\n",
+        "B": "B) Superior gluteal arteries\n",
+        "C": "C) Peroneal arteries\n",
+        "D": "D) Iliolumbar arteries\n",
+        "answer": "A"
+    },
+    {
+        "question": "16. The insertion of the biceps femoris muscle is on the: \n",
+        "A": "A) Tibial tuberosity\n",
+        "B": "B) Medial tibial condyle\n",
+        "C": "C) Head of the fibula\n",
+        "D": "D) Lateral femoral condyle\n",
+        "answer": "C"
+    },
+    {
+        "question": "17. Which of the following structures does NOT pass through the femoral sheath?\n",
+        "A": "A) Femoral artery\n",
+        "B": "B) Femoral vein\n",
+        "C": "C) Femoral nerve\n",
+        "D": "D) Lymphatics\n",
+        "answer": "C"
+    },
+    {
+        "question": "18. Which of the following nerves innervates the muscles of the anterior compartment of the lower leg, including the tibialis anterior?\n",
+        "A": "a) Tibial nerve\n",
+        "B": "b) Peroneal nerve\n",
+        "C": "c) Femoral nerve\n",
+        "D": "d) Deep peroneal nerve\n",
+        "answer": "D"
+    },
+    {
+        "question": "19. Which of the following muscles is responsible for inversion of the foot?\n",
+        "A": "\u2022 a) Peroneus longus\n",
+        "B": "\u2022 b) Tibialis anterior\n",
+        "C": "\u2022 c) Extensor digitorum longus\n",
+        "D": "\u2022 d) Peroneus brevis\n",
+        "answer": "B"
+    },
+    {
+        "question": "20. The flexor retinaculum in the foot is located on the: \n",
+        "A": "a) Dorsal side of the foot\n",
+        "B": "b) Lateral side of the foot\n",
+        "C": "c) Medial side of the ankle\n",
+        "D": "d) Plantar side of the foot\n",
+        "answer": "C"
+    },
+    {
+        "question": "21. The main function of the peroneus longus muscle is: \n",
+        "A": "a) Inversion of the foot\n",
+        "B": "b) Plantarflexion of the foot\n",
+        "C": "c) Eversion of the foot\n",
+        "D": "d) Dorsiflexion of the foot\n",
+        "answer": "C"
+    },
+    {
+        "question": "22. Which of the following nerves supplies sensation to most of the dorsum of the foot?\n",
+        "A": "a) Tibial nerve\n",
+        "B": "b) Superficial peroneal nerve\n",
+        "C": "c) Deep peroneal nerve\n",
+        "D": "d) Saphenous nerve\n",
+        "answer": "B"
+    },
+    {
+        "question": "23. Which of the following is true about the second layer of muscles in the foot?\n",
+        "A": "a) It contains the lumbricals and quadratus plantae \n",
+        "B": "b) It contains the abductor hallucis\n",
+        "C": "c) It is mainly responsible for plantarflexion \n",
+        "D": "d) It contains only intrinsic foot muscles\n",
+        "answer": "A"
+    },
+    {
+        "question": "24. What nerve supplies the thenar muscles, except adductor pollicis?\n",
+        "A": "a) Ulnar nerve\n",
+        "B": "b) Median nerve\n",
+        "C": "c) Radial nerve\n",
+        "D": "d) Axillary nerve\n",
+        "answer": "B"
+    },
+    {
+        "question": "25. Which deformity results from sudden tension on a long extensor tendon, leading to inability to extend the distal phalanx?\n",
+        "A": "a) Swan neck deformity\n",
+        "B": "b) Mallet finger\n",
+        "C": "c) Dupuytren\u2019s contracture\n",
+        "D": "d) Synovial cyst\n",
+        "answer": "B"
+    },
+    {
+        "question": "26. Which condition is characterized by infection along the lateral nail fold?\n",
+        "A": "a) Swan neck deformity\n",
+        "B": "b) Dupuytren\u2019s contracture\n",
+        "C": "c) Paronychia\n",
+        "D": "d) Synovial cyst\n",
+        "answer": "C"
+    },
+    {
+        "question": "27. Which group of muscles is located in the hypothenar eminence?\n",
+        "A": "a) Abductor pollicis brevis, flexor pollicis brevis, opponens pollicis \n",
+        "B": "b) Flexor digiti minimi, abductor digiti minimi, opponens digiti minimi 6\n",
+        "C": "c) Adductor pollicis, first dorsal interosseous \n",
+        "D": "d) Lumbricals and interossei\n",
+        "answer": "B"
+    },
+    {
+        "question": "28. Which of the following structures is found in the fourth layer of the foot?\n",
+        "A": "a) Flexor digitorum brevis\n",
+        "B": "b) Lumbricals\n",
+        "C": "c) Flexor Halluces brevis\n",
+        "D": "d) Plantar interossei\n",
+        "answer": "D"
+    },
+    {
+        "question": "29. What is the function of the palmar aponeurosis?\n",
+        "A": "a) Forms the carpal tunnel\n",
+        "B": "b) Protects the central compartment of the palm \n",
+        "C": "c) Connects the flexor retinaculum to the extensor retinaculum \n",
+        "D": "d) Provides blood supply to the hand\n",
+        "answer": "B"
+    },
+    {
+        "question": "30. Which tendon is continuous with the apex of the palmar aponeurosis?\n",
+        "A": "a) Palmaris longus tendon\n",
+        "B": "b) Flexor pollicis longus tendon\n",
+        "C": "c) Flexor digitorum profundus tendon\n",
+        "D": "d) Flexor retinaculum\n",
+        "answer": "A"
+    },
+    {
+        "question": "31. Which organism is most likely to cause osteomyelitis in intravenous drug users?\n",
+        "A": "a) Salmonella spp.\n",
+        "B": "b) Pseudomonas aeruginosa\n",
+        "C": "c) Haemophilus influenzae\n",
+        "D": "d) Mycobacterium tuberculosis\n",
+        "answer": "B"
+    },
+    {
+        "question": "32. What is a clinical hallmark of tuberculous spondylitis (Pott disease)?\n",
+        "A": "a) Pyogenic infection of long bones\n",
+        "B": "b) Compression fractures causing scoliosis or kyphosis \n",
+        "C": "c) Involvement of cranial bones\n",
+        "D": "d) Septic arthritis in neonates\n",
+        "answer": "B"
+    },
+    {
+        "question": "33. What is a key characteristic of acute osteomyelitis?\n",
+        "A": "a) Caseous necrosis\n",
+        "B": "b) Rapid proliferation of bacteria with neutrophilic inflammation \n",
+        "C": "c) Granulomatous inflammation\n",
+        "D": "d) Chronic marrow fibrosis\n",
+        "answer": "B"
+    },
+    {
+        "question": "34. Which population is more prone to developing osteomyelitis in the feet due to infections?\n",
+        "A": "a) Children\n",
+        "B": "b) Diabetic patients\n",
+        "C": "c) Elderly\n",
+        "D": "d) Individuals with sickle cell disease\n",
+        "answer": "B"
+    },
+    {
+        "question": "35. What is the most common causative agent of gas gangrene?\n",
+        "A": "a) Clostridium difficile\n",
+        "B": "b) Clostridium perfringens\n",
+        "C": "c) Clostridium botulinum\n",
+        "D": "d) Clostridium tetani\n",
+        "answer": "B"
+    },
+    {
+        "question": "36. What are the typical gases formed in tissues during gas gangrene?\n",
+        "A": "a) O2 and CO2\n",
+        "B": "b) CO2 and N2\n",
+        "C": "c) N2 and H2\n",
+        "D": "d) CO2 and H2O\n",
+        "answer": "B"
+    },
+    {
+        "question": "37. Regarding gas gangrene, what laboratory test demonstrates a \u201cdouble zone of hemolysis\u201d?\n",
+        "A": "a) Nagler\u2019s reaction\n",
+        "B": "b) Blood agar culture\n",
+        "C": "c) Litmus milk test\n",
+        "D": "d) Gas generation in tissue smears\n",
+        "answer": "B"
+    },
+    {
+        "question": "38. What is a characteristic finding in tissues affected by gas gangrene?\n",
+        "A": "a) Caseous necrosis\n",
+        "B": "b) Crepitations due to gas formation\n",
+        "C": "c) Pus accumulation\n",
+        "D": "d) Fibrous scarring\n",
+        "answer": "B"
+    },
+    {
+        "question": "39. Which of the following scenarios can be diagnosed as osteoarthritis?\n",
+        "A": "A. Male, 60 years old, butcher, with right big toe pain and swelling.\n",
+        "B": "B. Female, 60 years old, with recurrent bilateral knee pain, asymmetrical (Pain in both knees but more on the right knee).\n",
+        "C": "C. Female, 26 years old, with proximal interphalangeal and metacarpophalangeal joints pain and swelling of both hands, symmetrical (Both hands at the same time).\n",
+        "D": "D. Female, 6 years old, with right knee pain and swelling with redness and inability to walk.\n",
+        "answer": "B"
+    },
+    {
+        "question": "40. Which toxin is the most important regarding the pathogenesis of gas gangrene?\n",
+        "A": "a) Beta toxin\n",
+        "B": "b) Epsilon toxin\n",
+        "C": "c) Alpha toxin\n",
+        "D": "d) Iota toxin\n",
+        "answer": "C"
+    },
+    {
+        "question": "41. What describes Nagler\u2019s reaction in diagnosing Clostridium perfringens?\n",
+        "A": "a) Stormy clot & gas.\n",
+        "B": "b) Inhibition of phospholipase activity by antitoxin \n",
+        "C": "c) Fluid medium for sugar fermentation( saccharolytic) \n",
+        "D": "d) Toxigenicity test.\n",
+        "answer": "B"
+    },
+    {
+        "question": "42. What is a characteristic finding in tissues affected by gas gangrene?\n",
+        "A": "a) Caseous necrosis\n",
+        "B": "b) Crepitations due to gas formation\n",
+        "C": "c) Pus accumulation\n",
+        "D": "d) Fibrous scarring\n",
+        "answer": "B"
+    },
+    {
+        "question": "43. What is the most common soft tissue sarcoma of childhood and adolescence?\n",
+        "A": "A) Osteosarcoma\n",
+        "B": "B) Rhabdomyosarcoma\n",
+        "C": "C) Ewing Sarcoma\n",
+        "D": "D) Leiomyosarcoma\n",
+        "answer": "B"
+    },
+    {
+        "question": "44. Elongated rhabdomyoblasts in rhabdomyosarcoma are referred to as: \n",
+        "A": "A) Strap or tadpole cells\n",
+        "B": "B) Spindle cells\n",
+        "C": "C) Giant cells\n",
+        "D": "D) Round cells\n",
+        "answer": "A"
+    },
+    {
+        "question": "45. Which histological variant of rhabdomyosarcoma has the worst prognosis?\n",
+        "A": "A) Embryonal\n",
+        "B": "B) Alveolar\n",
+        "C": "C) Pleomorphic\n",
+        "D": "D) Botryoides\n",
+        "answer": "C"
+    },
+    {
+        "question": "46. The t(2;13) translocation in rhabdomyosarcoma involves which genes?\n",
+        "A": "A) PAX5 and MYC\n",
+        "B": "B) PAX3 and FKHR\n",
+        "C": "C) RAS and TP53\n",
+        "D": "D) RB1 and BRCA1\n",
+        "answer": "B"
+    },
+    {
+        "question": "47. Which layer of skin is infected in cellulitis (erysipelas)?\n",
+        "A": "A) Epidermis\n",
+        "B": "B) Dermis\n",
+        "C": "C) Subcutaneous tissue\n",
+        "D": "D) Hair follicles\n",
+        "answer": "B"
+    },
+    {
+        "question": "48. Which clinical sign is most characteristic of folliculitis?\n",
+        "A": "A) Vesicular lesions around the hair follicle \n",
+        "B": "B) Pinpoint erythema around individual hair follicles \n",
+        "C": "C) Purulent discharge\n",
+        "D": "D) Large bullae\n",
+        "answer": "B"
+    },
+    {
+        "question": "49. What is the treatment for a skin abscess?\n",
+        "A": "A) Only antibiotics\n",
+        "B": "B) Incision, drainage, and antibiotics\n",
+        "C": "C) Topical antiseptics\n",
+        "D": "D) Observation only\n",
+        "answer": "B"
+    },
+    {
+        "question": "50. What is the typical time frame before symptoms of Dracunculiasis appear after infection?\n",
+        "A": "A) 1\u20132 weeks\n",
+        "B": "B) 3\u20136 months\n",
+        "C": "C) 6 months\n",
+        "D": "D) About 1 year\n",
+        "answer": "D"
+    },
+    {
+        "question": "51. Why are Rickettsiae considered obligate intracellular parasites?\n",
+        "A": "A) They require oxygen for survival.\n",
+        "B": "B) They are unable to produce sufficient adenosine triphosphate (ATP). \n",
+        "C": "C) They can only multiply in anaerobic environments.\n",
+        "D": "D) They are dependent on arthropod vectors for survival.\n",
+        "answer": "B"
+    },
+    {
+        "question": "52. What is the primary site of Rickettsial infection in humans?\n",
+        "A": "A) Intestinal lining\n",
+        "B": "B) Endothelium of small blood vessels\n",
+        "C": "C) Lymph nodes\n",
+        "D": "D) Bone marrow\n",
+        "answer": "B"
+    },
+    {
+        "question": "53: What are burrows in Scabies?\n",
+        "A": "A) Pruritic bumps on the skin\n",
+        "B": "B) Secondary bacterial infections caused by scratching \n",
+        "C": "C) Linear markings caused by the movement of mites under the skin \n",
+        "D": "D) Rash due to hypersensitivity\n",
+        "answer": "C"
+    },
+    {
+        "question": "54: What is an important household precaution when treating Scabies?\n",
+        "A": "A) Disinfecting the floor and walls\n",
+        "B": "B) Washing clothing and sheets on the day of treatment \n",
+        "C": "C) Avoiding bathing for 24 hours after applying medication \n",
+        "D": "D) Using mosquito nets to prevent reinfection \n",
+        "answer": "B"
+    },
+    {
+        "question": "55. Drugs used in scabies treatment include: \n",
+        "A": "A) Permethrin cream, Ivermectin, Lindane.\n",
+        "B": "B) Ivermectin, Permethrin cream, Methotrexate.\n",
+        "C": "C) Lindane, Methotrexate, Permethrin cream.\n",
+        "D": "D) Methotrexate, Paracetamol, Antifungal.\n",
+        "answer": "A"
+    },
+    {
+        "question": "56. Which of the following is a feature of fast muscle fibers (white muscle fibers)?\n",
+        "A": "A) Large diameter, contract rapidly, easily fatigued.\n",
+        "B": "B) Small diameter, contract slowly, not easily fatigued.\n",
+        "C": "C) Rich in myoglobin, contract slowly, specialized for sustained movement.\n",
+        "D": "D) Small diameter, specialized for fine skilled movements.\n",
+        "answer": "A"
+    },
+    {
+        "question": "57. What type of muscle contraction is responsible for lifting a moderately heavy object where the muscle shortens?\n",
+        "A": "A) Isometric contraction\n",
+        "B": "B) Isotonic contraction\n",
+        "C": "C) Concentric contraction\n",
+        "D": "D) Eccentric contraction\n",
+        "answer": "B"
+    },
+    {
+        "question": "58. What causes rigor mortis after death?\n",
+        "A": "A) Excess calcium in the muscles\n",
+        "B": "B) Lack of oxygen in muscle tissues\n",
+        "C": "C) Depletion of ATP, preventing myosin heads from detaching from actin \n",
+        "D": "D) Overactivation of sarcoplasmic reticulum calcium pumps \n",
+        "answer": "C"
+    },
+    {
+        "question": "59. Which structure in the muscle fiber stores calcium ions needed for contraction?\n",
+        "A": "A) Sarcoplasmic reticulum\n",
+        "B": "B) T-tubules\n",
+        "C": "C) Mitochondria\n",
+        "D": "D) Myofibrils\n",
+        "answer": "A"
+    },
+    {
+        "question": "60. What happens when calcium binds to troponin in skeletal muscle?\n",
+        "A": "A) Tropomyosin shifts, exposing myosin-binding sites on actin.\n",
+        "B": "B) Myosin detaches from actin.\n",
+        "C": "C) ATP binds to the myosin head.\n",
+        "D": "D) The sarcomere relaxes.\n",
+        "answer": "A"
+    },
+    {
+        "question": "61. What is a key recommendation to avoid esophageal irritation when taking bisphosphonates?\n",
+        "A": "A) Take them with a large meal\n",
+        "B": "B) Remain upright after taking them\n",
+        "C": "C) Drink milk immediately afterward\n",
+        "D": "D) Lie down for 30 minutes after ingestion\n",
+        "answer": "B"
+    },
+    {
+        "question": "62. What is the primary mechanism of action of bisphosphonates?\n",
+        "A": "A) Stimulating osteoblast activity\n",
+        "B": "B) Decreasing osteoclastic bone resorption\n",
+        "C": "C) Enhancing calcium absorption in the gut\n",
+        "D": "D) Inhibiting parathyroid hormone secretion\n",
+        "answer": "B"
+    },
+    {
+        "question": "63. What is the method of administration for denosumab (Prolia)?\n",
+        "A": "A) Oral tablet daily\n",
+        "B": "B) Intranasal spray weekly\n",
+        "C": "C) Subcutaneous injection every 6 months\n",
+        "D": "D) Intravenous infusion monthly\n",
+        "answer": "C"
+    },
+    {
+        "question": "64. What is the mechanism of action of methotrexate?\n",
+        "A": "A) Inhibits TNF-\u03b1 activity\n",
+        "B": "B) Folic acid antagonist that inhibits cytokine production and purine nucleotide biosynthesis \n",
+        "C": "C) Stimulates T-cell activation\n",
+        "D": "D) Blocks the interaction between B cells and antigens \n",
+        "answer": "B"
+    },
+    {
+        "question": "65. Heberden\u2019s nodes are associated with osteoarthritis in which joints?\n",
+        "A": "A. Proximal interphalangeal joints\n",
+        "B": "B. Distal interphalangeal joints\n",
+        "C": "C. Metacarpophalangeal joints\n",
+        "D": "D. Carpometacarpal joints\n",
+        "answer": "B"
+    },
+    {
+        "question": "66. The gold standard for diagnosing septic arthritis is: \n",
+        "A": "A. Blood culture\n",
+        "B": "B. Imaging studies\n",
+        "C": "C. Synovial fluid aspiration\n",
+        "D": "D. Erythrocyte sedimentation rate (ESR)\n",
+        "answer": "C"
+    },
+    {
+        "question": "67. What is a recommended prevention strategy for leishmaniasis?\n",
+        "A": "A. Vaccination with BCG\n",
+        "B": "B. Wearing thick clothing and insect repellents \n",
+        "C": "C. Avoiding contact with infected individuals \n",
+        "D": "D. Mass drug administration\n",
+        "answer": "B"
+    },
+    {
+        "question": "68. Dorsalis pedis artery is:\n",
+        "A": "A. Continuation of Posterior tibial artery\n",
+        "B": "B. Continuation of Anterior tibial artery\n",
+        "C": "C. Continuation of Internal pudendal artery\n",
+        "D": "D. Continuation of External pudendal artery\n",
+        "answer": "B"
+    },
+    {
+        "question": "69. Regarding the bony anatomy of the foot, which of the following bones located in the lateral aspect of the foot:\n",
+        "A": "A. Metatarsal of the big toe.\n",
+        "B": "B. Naviculum\n",
+        "C": "C. Cuboid\n",
+        "D": "D. Medial cuneiform\n",
+        "answer": "C"
+    },
+    {
+        "question": "70. What nerve pierces the coracobrachialis muscle?\n",
+        "A": "A) Radial nerve\n",
+        "B": "B) Ulnar nerve\n",
+        "C": "C) Median nerve\n",
+        "D": "D) Musculocutaneous nerve\n",
+        "answer": "D"
+    }
+]
